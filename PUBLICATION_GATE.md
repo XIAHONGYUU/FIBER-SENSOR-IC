@@ -2,7 +2,7 @@
 
 ## 当前状态
 
-状态：`BOOTSTRAP-CANDIDATE`。
+状态：`PUBLISHED-BOOTSTRAP`。
 
 当前仓库只包含公开论文链接、原创研究文字和通用工程框架，不包含内部企业资料、个人履历、未公开实验数据、芯片实现细节或第三方论文全文。
 
@@ -15,9 +15,19 @@
 - [x] 不继承现有私有项目 Git 历史；
 - [x] 不复制 `GAS-SENSOR-IC` 的报告、图片或个人联系方式；
 - [x] 第三方内容只登记链接和摘要，不重新分发原文件；
-- [ ] GitHub 远程创建与首次提交哈希已记录；
-- [ ] GitHub Pages 已启用并完成在线核验；
-- [ ] Discussions 已启用并完成入口核验。
+- [x] GitHub 远程创建与首次提交哈希已记录；
+- [x] GitHub Pages 已启用并完成在线核验；
+- [x] Discussions 已启用并完成入口核验。
+
+## 首次发布记录
+
+- 日期：2026-10-13；
+- 仓库：`https://github.com/XIAHONGYUU/FIBER-SENSOR-IC`；
+- 首次公开提交：`4025c8af18fae199908c6a255bc630327e14bfd8`；
+- Pages：`https://xiahongyuu.github.io/FIBER-SENSOR-IC/`；
+- Pages 工作流：`38336886364`，结论 `success`；
+- 在线页面以 HTTP 200 返回，并与仓库 `site/index.html` 逐字节一致；
+- 默认分支为 `main`，仓库可见性为 `PUBLIC`，Discussions 已启用。
 
 ## 后续发布要求
 
