@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research framework, please cite this repository."
+title: "FIBER-SENSOR-IC: Fiber sensing and integrated-circuit research framework"
+type: software
+authors:
+  - family-names: "Zuo"
+    given-names: "Kaiyuan"
+repository-code: "https://github.com/XIAHONGYUU/FIBER-SENSOR-IC"
+url: "https://xiahongyuu.github.io/FIBER-SENSOR-IC/"
+license: "CC-BY-4.0"
+version: "0.1.0-bootstrap"
+date-released: 2026-10-13

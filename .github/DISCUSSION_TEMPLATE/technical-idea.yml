@@ -1,0 +1,28 @@
+title: "[Technical idea] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for open technical discussion. A proposal is not treated as a verified result.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What sensing, integration, or packaging problem are you addressing?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed approach
+      description: Describe the mechanism, signal chain, and expected benefit.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and limits
+      description: Link primary sources and state what remains unverified.
+    validations:
+      required: true
