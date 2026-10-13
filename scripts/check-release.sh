@@ -20,6 +20,9 @@ required=(
   THIRD_PARTY_NOTICES.md
   docs/research-question.md
   docs/three-route-research-map.md
+  docs/r2-route-1-process-platform-draft.md
+  docs/r2-route-2-signal-chain-budget-draft.md
+  docs/r2-route-3-applications-screening-draft.md
   docs/cpo-black-box-sensing-concept.md
   docs/mechanism-options.md
   docs/three-layer-roadmap.md
