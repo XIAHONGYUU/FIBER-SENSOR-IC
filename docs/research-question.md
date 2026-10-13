@@ -16,6 +16,8 @@
 
 ## 当前主线
 
+三条正交研究路线的完整展开见 [`three-route-research-map.md`](three-route-research-map.md)：工艺平台与微纳制造融合、光学—电学转换与读出、封装测试与光通信系统复用。
+
 ```text
 普通 FBG 验证基线
     ↓ 建立波长变化到电信号的可复核映射

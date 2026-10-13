@@ -24,16 +24,17 @@
 ## 建议阅读顺序
 
 1. [`docs/research-question.md`](docs/research-question.md)：研究对象与“深度融合”的定义。
-2. [`docs/cpo-black-box-sensing-concept.md`](docs/cpo-black-box-sensing-concept.md)：CPO 黑盒电学指纹连续传感专家讨论稿。
-3. [`docs/mechanism-options.md`](docs/mechanism-options.md)：为什么选择 FBG、TFBG 和 DAS 的三级结构。
-4. [`docs/three-layer-roadmap.md`](docs/three-layer-roadmap.md)：集成制造、传感原理、封装测试三层路线。
-5. [`docs/initial-signal-chain.md`](docs/initial-signal-chain.md)：首版光学—电学信号链与预算字段。
-6. [`docs/maturity-matrix.md`](docs/maturity-matrix.md)：元件、仪器、PIC、电子协同与量产封装的成熟度分层。
-7. [`docs/glossary-and-mechanisms.md`](docs/glossary-and-mechanisms.md)：统一术语、机制与指标口径。
-8. [`evidence/starter-paper-cards.md`](evidence/starter-paper-cards.md)：32 篇论文的阶段性证据卡。
-9. [`evidence/industry-landscape.csv`](evidence/industry-landscape.csv)：11 条官方产业产品、框架和接口证据。
-10. [`docs/evidence-boundaries.md`](docs/evidence-boundaries.md)：事实、推导与待验证问题的边界。
-11. [`ROADMAP.md`](ROADMAP.md)：后续可验收里程碑。
+2. [`docs/three-route-research-map.md`](docs/three-route-research-map.md)：工艺平台、光电读出、封装与通信应用三条正交路线总图。
+3. [`docs/cpo-black-box-sensing-concept.md`](docs/cpo-black-box-sensing-concept.md)：CPO 黑盒电学指纹连续传感专家讨论稿。
+4. [`docs/mechanism-options.md`](docs/mechanism-options.md)：为什么选择 FBG、TFBG 和 DAS 的三级结构。
+5. [`docs/three-layer-roadmap.md`](docs/three-layer-roadmap.md)：集成制造、传感原理、封装测试三层路线。
+6. [`docs/initial-signal-chain.md`](docs/initial-signal-chain.md)：首版光学—电学信号链与预算字段。
+7. [`docs/maturity-matrix.md`](docs/maturity-matrix.md)：元件、仪器、PIC、电子协同与量产封装的成熟度分层。
+8. [`docs/glossary-and-mechanisms.md`](docs/glossary-and-mechanisms.md)：统一术语、机制与指标口径。
+9. [`evidence/starter-paper-cards.md`](evidence/starter-paper-cards.md)：37 篇论文的阶段性证据卡。
+10. [`evidence/industry-landscape.csv`](evidence/industry-landscape.csv)：11 条官方产业产品、框架和接口证据。
+11. [`docs/evidence-boundaries.md`](docs/evidence-boundaries.md)：事实、推导与待验证问题的边界。
+12. [`ROADMAP.md`](ROADMAP.md)：后续可验收里程碑。
 
 ## 在线页面
 

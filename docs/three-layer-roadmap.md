@@ -1,5 +1,7 @@
 # 三层技术路线
 
+本页保留三层技术结构；跨方向的完整候选课题、优先级和证据缺口见 [`three-route-research-map.md`](three-route-research-map.md)。
+
 ## 第一层：集成制造
 
 研究对象不是单一工艺，而是异质边界：
