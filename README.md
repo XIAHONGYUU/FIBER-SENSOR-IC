@@ -26,9 +26,12 @@
 2. [`docs/mechanism-options.md`](docs/mechanism-options.md)：为什么选择 FBG、TFBG 和 DAS 的三级结构。
 3. [`docs/three-layer-roadmap.md`](docs/three-layer-roadmap.md)：集成制造、传感原理、封装测试三层路线。
 4. [`docs/initial-signal-chain.md`](docs/initial-signal-chain.md)：首版光学—电学信号链与预算字段。
-5. [`evidence/starter-paper-cards.md`](evidence/starter-paper-cards.md)：起始论文证据卡。
-6. [`docs/evidence-boundaries.md`](docs/evidence-boundaries.md)：事实、推导与待验证问题的边界。
-7. [`ROADMAP.md`](ROADMAP.md)：后续可验收里程碑。
+5. [`docs/maturity-matrix.md`](docs/maturity-matrix.md)：元件、仪器、PIC、电子协同与量产封装的成熟度分层。
+6. [`docs/glossary-and-mechanisms.md`](docs/glossary-and-mechanisms.md)：统一术语、机制与指标口径。
+7. [`evidence/starter-paper-cards.md`](evidence/starter-paper-cards.md)：32 篇论文的阶段性证据卡。
+8. [`evidence/industry-landscape.csv`](evidence/industry-landscape.csv)：8 条官方产业产品证据。
+9. [`docs/evidence-boundaries.md`](docs/evidence-boundaries.md)：事实、推导与待验证问题的边界。
+10. [`ROADMAP.md`](ROADMAP.md)：后续可验收里程碑。
 
 ## 在线页面
 
