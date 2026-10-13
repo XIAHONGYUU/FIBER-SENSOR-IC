@@ -8,6 +8,7 @@
 
 - **验证基线：普通 FBG。** 用成熟的温度、应变与振动传感机制建立可复核的解调链路。
 - **主要融合创新：TFBG 折射率传感。** 研究能否用集成光子滤波、光电探测和 CMOS 读出减少对高分辨率光谱仪的依赖。
+- **核心候选架构：CPO 黑盒电学指纹。** 用可控电输入、功能化光纤和连续电学输出研究传感状态反演；当前为待专家评审和实验验证的作者构想。
 - **远期扩展：DAS 与感知通信融合。** 讨论分布式传感、通信资源复用和光互连系统监测，不把远期路线写成当前成果。
 
 ## 核心问题
@@ -23,19 +24,20 @@
 ## 建议阅读顺序
 
 1. [`docs/research-question.md`](docs/research-question.md)：研究对象与“深度融合”的定义。
-2. [`docs/mechanism-options.md`](docs/mechanism-options.md)：为什么选择 FBG、TFBG 和 DAS 的三级结构。
-3. [`docs/three-layer-roadmap.md`](docs/three-layer-roadmap.md)：集成制造、传感原理、封装测试三层路线。
-4. [`docs/initial-signal-chain.md`](docs/initial-signal-chain.md)：首版光学—电学信号链与预算字段。
-5. [`docs/maturity-matrix.md`](docs/maturity-matrix.md)：元件、仪器、PIC、电子协同与量产封装的成熟度分层。
-6. [`docs/glossary-and-mechanisms.md`](docs/glossary-and-mechanisms.md)：统一术语、机制与指标口径。
-7. [`evidence/starter-paper-cards.md`](evidence/starter-paper-cards.md)：32 篇论文的阶段性证据卡。
-8. [`evidence/industry-landscape.csv`](evidence/industry-landscape.csv)：8 条官方产业产品证据。
-9. [`docs/evidence-boundaries.md`](docs/evidence-boundaries.md)：事实、推导与待验证问题的边界。
-10. [`ROADMAP.md`](ROADMAP.md)：后续可验收里程碑。
+2. [`docs/cpo-black-box-sensing-concept.md`](docs/cpo-black-box-sensing-concept.md)：CPO 黑盒电学指纹连续传感专家讨论稿。
+3. [`docs/mechanism-options.md`](docs/mechanism-options.md)：为什么选择 FBG、TFBG 和 DAS 的三级结构。
+4. [`docs/three-layer-roadmap.md`](docs/three-layer-roadmap.md)：集成制造、传感原理、封装测试三层路线。
+5. [`docs/initial-signal-chain.md`](docs/initial-signal-chain.md)：首版光学—电学信号链与预算字段。
+6. [`docs/maturity-matrix.md`](docs/maturity-matrix.md)：元件、仪器、PIC、电子协同与量产封装的成熟度分层。
+7. [`docs/glossary-and-mechanisms.md`](docs/glossary-and-mechanisms.md)：统一术语、机制与指标口径。
+8. [`evidence/starter-paper-cards.md`](evidence/starter-paper-cards.md)：32 篇论文的阶段性证据卡。
+9. [`evidence/industry-landscape.csv`](evidence/industry-landscape.csv)：11 条官方产业产品、框架和接口证据。
+10. [`docs/evidence-boundaries.md`](docs/evidence-boundaries.md)：事实、推导与待验证问题的边界。
+11. [`ROADMAP.md`](ROADMAP.md)：后续可验收里程碑。
 
 ## 在线页面
 
-GitHub Pages 发布源位于 `site/`。首次远程发布后，页面预计位于：
+GitHub Pages 发布源位于 `site/`，在线页面位于：
 
 `https://xiahongyuu.github.io/FIBER-SENSOR-IC/`
 

@@ -19,6 +19,7 @@ required=(
   PUBLICATION_GATE.md
   THIRD_PARTY_NOTICES.md
   docs/research-question.md
+  docs/cpo-black-box-sensing-concept.md
   docs/mechanism-options.md
   docs/three-layer-roadmap.md
   docs/initial-signal-chain.md
@@ -39,7 +40,7 @@ done
 paper_count="$(awk 'END { print NR - 1 }' evidence/evidence-ledger.csv)"
 industry_count="$(awk 'END { print NR - 1 }' evidence/industry-landscape.csv)"
 [[ "$paper_count" -ge 30 ]] || { echo "FAIL: expected at least 30 paper records, found $paper_count" >&2; exit 1; }
-[[ "$industry_count" -ge 5 ]] || { echo "FAIL: expected at least 5 industry records, found $industry_count" >&2; exit 1; }
+[[ "$industry_count" -ge 10 ]] || { echo "FAIL: expected at least 10 industry and interface records, found $industry_count" >&2; exit 1; }
 
 if rg -n '/home/|/mnt/c|C:\\Users|CURRENT_TASK\.md|state/checkpoints|resume-workspace' \
   README.md ROADMAP.md CONTRIBUTING.md DISCLAIMER.md PUBLICATION_GATE.md \
